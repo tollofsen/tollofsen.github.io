@@ -78,3 +78,8 @@ style = "onedark"
   name = "About"
   weight = 3
   url = "about/"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
